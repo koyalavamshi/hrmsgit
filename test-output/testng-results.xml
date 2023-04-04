@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-03T09:45:43 IST" name="Suite1" finished-at="2023-04-03T09:46:57 IST" duration-ms="73875">
+    <groups>
+    </groups>
+    <test started-at="2023-04-03T09:45:43 IST" name="Regression1" finished-at="2023-04-03T09:46:57 IST" duration-ms="73875">
+      <class name="com.hrms.testscripts.TCOO1">
+        <test-method signature="TC001()[pri:0, instance:com.hrms.testscripts.TCOO1@5d7148e2]" started-at="2023-04-03T09:46:44 IST" name="TC001" finished-at="2023-04-03T09:46:57 IST" duration-ms="13167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+      </class> <!-- com.hrms.testscripts.TCOO1 -->
+      <class name="com.hrms.testscripts.TC002">
+        <test-method signature="TC002()[pri:0, instance:com.hrms.testscripts.TC002@73e22a3d]" started-at="2023-04-03T09:45:43 IST" name="TC002" finished-at="2023-04-03T09:46:01 IST" duration-ms="17898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+      </class> <!-- com.hrms.testscripts.TC002 -->
+      <class name="com.hrms.testscripts.TC003">
+        <test-method signature="TC003()[pri:0, instance:com.hrms.testscripts.TC003@543588e6]" started-at="2023-04-03T09:46:01 IST" name="TC003" finished-at="2023-04-03T09:46:13 IST" duration-ms="11897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003 -->
+      </class> <!-- com.hrms.testscripts.TC003 -->
+      <class name="com.hrms.testscripts.TC004">
+        <test-method signature="TC004()[pri:0, instance:com.hrms.testscripts.TC004@f5acb9d]" started-at="2023-04-03T09:46:13 IST" name="TC004" finished-at="2023-04-03T09:46:27 IST" duration-ms="13764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004 -->
+      </class> <!-- com.hrms.testscripts.TC004 -->
+      <class name="com.hrms.testscripts.TC005">
+        <test-method signature="TC005()[pri:0, instance:com.hrms.testscripts.TC005@4fb3ee4e]" started-at="2023-04-03T09:46:27 IST" name="TC005" finished-at="2023-04-03T09:46:44 IST" duration-ms="17050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005 -->
+      </class> <!-- com.hrms.testscripts.TC005 -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
