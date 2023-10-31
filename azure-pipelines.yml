@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  Default
+  vamshi
 
 steps:
 - task: Maven@3
