@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  azure-pipelines.yml
+  hrms
 
 steps:
 - task: Maven@4
